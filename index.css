@@ -1,15 +1,22 @@
 * {
   margin: 0;
   padding: 0;
-  Background: khaki;
+  Background: cream;
 }
 h1 {
   font-family: Cursive;
   font-weight: 900;
   color: cornflowerblue;
+  text-align: center;
 }
 p{
   font-family: cursive;
   font-size: 20px;
   color: cornflowerblue;
+  text-align: center;
+}
+#ice-cream {
+  align: center;
+  height: 500px;
+  width: 500px;
 }
