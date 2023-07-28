@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  Background: khaki;
+}
+h1 {
+  font-family: Cursive;
+  font-weight: 900;
+  color: cornflowerblue;
+}
+p{
+  font-family: cursive;
+  font-size: 20px;
+  color: cornflowerblue;
+}
